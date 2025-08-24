@@ -1,0 +1,644 @@
+{
+  "header": {
+    "promos": "Акции и скидки",
+    "stores": "Магазины",
+    "catalog": "Каталог товаров",
+    "search": "Поиск",
+    "favorites": "Избранное",
+    "cart": "Корзина",
+    "compare": "Сравнение",
+    "login": "Войти",
+    "profile": "Профиль",
+    "logout": "Выйти",
+    "choose_language": "Выберите язык"
+  },
+  "common": {
+    "sum": "сум",
+    "brand": "Бренд"
+  },
+  "slider1": {
+    "title": "Хиты продаж",
+    "view_all": "Смотреть все",
+    "badge_hit": "ХИТ",
+    "x6months": "сум x 6 мес.",
+    "buy_now": "Купить сразу",
+    "add_to_cart": "Добавить в корзину",
+    "products": {
+      "1": {
+        "name": "Холодильник Indesit ITS 4200 NG UZ"
+      },
+      "2": {
+        "name": "Смартфон Samsung Galaxy A16 256GB Black"
+      },
+      "3": {
+        "name": "Смартфон Samsung Galaxy A16 256GB Gray"
+      },
+      "4": {
+        "name": "Смартфон Honor X9c 8/256 Titanium Black"
+      },
+      "5": {
+        "name": "Смартфон Honor X8c 6/128 Midnight Black"
+      },
+      "6": {
+        "name": "Холодильник Loretto LRF-220I/DF-W"
+      },
+      "7": {
+        "name": "Смартфон iPhone 13 128GB Midnight"
+      },
+      "8": {
+        "name": "Холодильник KLEO BCD 275 W"
+      },
+      "9": {
+        "name": "Кондиционер ARCTIC ARCSIJ3AW09BE"
+      },
+      "10": {
+        "name": "Холодильник Loretto LRF-330I/NF-BL"
+      },
+      "11": {
+        "name": "Телевизор KÖNNEN 32KN100HS"
+      },
+      "12": {
+        "name": "Холодильник Ferre BCD275"
+      },
+      "13": {
+        "name": "Смартфон Honor X7b Black 8/128GB"
+      },
+      "14": {
+        "name": "Смартфон Xiaomi Redmi Note 14 6/128 Midnight Black"
+      },
+      "15": {
+        "name": "Смартфон Honor X8b 8/128 Midnight Black"
+      },
+      "16": {
+        "name": "Смартфон Honor X8b 8/128 Titanium Silver"
+      },
+      "17": {
+        "name": "Смартфон Samsung Galaxy A56 8/128gb Gray"
+      },
+      "18": {
+        "name": "Смартфон Honor X6b 4/128 Forest Green"
+      },
+      "19": {
+        "name": "Смартфон Huawei Nova 12i 8/128GB Black"
+      }
+    }
+  },
+  "slider": {
+    "title": "Хиты продаж",
+    "view_all": "Смотреть все",
+    "badge_hit": "ХИТ",
+    "x6months": "сум x 6 мес.",
+    "buy_now": "Купить сразу",
+    "add_to_cart": "Добавить в корзину",
+    "products": {
+      "1": {
+        "name": "Холодильник Indesit ITS 4200 NG UZ"
+      },
+      "2": {
+        "name": "Смартфон Samsung Galaxy A16 256GB Black"
+      },
+      "3": {
+        "name": "Смартфон Samsung Galaxy A16 256GB Gray"
+      },
+      "4": {
+        "name": "Смартфон Honor X9c 8/256 Titanium Black"
+      },
+      "5": {
+        "name": "Смартфон Honor X8c 6/128 Midnight Black"
+      },
+      "6": {
+        "name": "Холодильник Loretto LRF-220I/DF-W"
+      },
+      "7": {
+        "name": "Смартфон iPhone 13 128GB Midnight"
+      },
+      "8": {
+        "name": "Холодильник KLEO BCD 275 W"
+      },
+      "9": {
+        "name": "Кондиционер ARCTIC ARCSIJ3AW09BE"
+      },
+      "10": {
+        "name": "Холодильник Loretto LRF-330I/NF-BL"
+      },
+      "11": {
+        "name": "Телевизор KÖNNEN 32KN100HS"
+      },
+      "12": {
+        "name": "Холодильник Ferre BCD275"
+      },
+      "13": {
+        "name": "Смартфон Honor X7b Black 8/128GB"
+      },
+      "14": {
+        "name": "Смартфон Xiaomi Redmi Note 14 6/128 Midnight Black"
+      },
+      "15": {
+        "name": "Смартфон Honor X8b 8/128 Midnight Black"
+      },
+      "16": {
+        "name": "Смартфон Honor X8b 8/128 Titanium Silver"
+      },
+      "17": {
+        "name": "Смартфон Samsung Galaxy A56 8/128gb Gray"
+      },
+      "18": {
+        "name": "Смартфон Honor X6b 4/128 Forest Green"
+      },
+      "19": {
+        "name": "Смартфон Huawei Nova 12i 8/128GB Black"
+      }
+    }
+  },
+  "slider2": {
+    "title": "Крупная бытовая техника",
+    "view_all": "Смотреть все",
+    "x6months": "сум x 6 мес.",
+    "buy_now": "Купить сразу",
+    "add_to_cart": "Добавить в корзину",
+    "products": {
+      "32": {
+        "name": "Холодильник Indesit ITS 5200 W UZ"
+      },
+      "33": {
+        "name": "Комбинированная плита GOODWELL GWC64014W"
+      },
+      "34": {
+        "name": "Комбинированная плита GOODWELL GWC-64014BL4"
+      },
+      "35": {
+        "name": "Газовая плита Goodwell GWC-64014X4"
+      },
+      "36": {
+        "name": "Холодильник KLEO UCR 365 W"
+      },
+      "37": {
+        "name": "Холодильник LG GN-B452SKBK"
+      },
+      "38": {
+        "name": "Стиральная машина Artel TG80FMP Abstract 01"
+      },
+      "39": {
+        "name": "Холодильник Toshiba GR-RT624WE-PMJ(06)"
+      },
+      "40": {
+        "name": "Холодильник Toshiba GR-RB449WE-PMJ(49)"
+      },
+      "41": {
+        "name": "Стиральная машина LG F2Y1NS5W"
+      },
+      "42": {
+        "name": "Стиральная машина LG F2Y1NS6W"
+      },
+      "43": {
+        "name": "Стиральная машина LG F2Y1WS6W"
+      }
+    }
+  },
+  "slider3": {
+    "title": "Мелкая техника для дома",
+    "view_all": "Смотреть все",
+    "x6months": "сум x 6 мес.",
+    "buy_now": "Купить сразу",
+    "add_to_cart": "Добавить в корзину",
+    "products": {
+      "44": {
+        "name": "Отпариватель IT3470E1"
+      },
+      "45": {
+        "name": "Утюг Gorenje SIH2600BKG"
+      },
+      "46": {
+        "name": "Утюг Gorenje SIH2200BLC"
+      },
+      "47": {
+        "name": "Ручной аккумуляторный пылесос Karcher CVH 3 Plus..."
+      },
+      "48": {
+        "name": "Швейная машина CHAYKA ART 75"
+      },
+      "49": {
+        "name": "Пароочиститель Karcher SC 2 Deluxe"
+      },
+      "50": {
+        "name": "Утюг Tefal FV2847E0"
+      },
+      "51": {
+        "name": "Утюг Tefal FV6838E0"
+      },
+      "52": {
+        "name": "Утюг Tefal FV6844E0"
+      },
+      "53": {
+        "name": "Пылесос KLEO VC-1108 C (Чёрный)"
+      },
+      "54": {
+        "name": "Пылесос KLEO VC-1108 C (серый)"
+      },
+      "55": {
+        "name": "Умные весы Artel ART-EB-1170"
+      }
+    }
+  },
+  "slider4": {
+    "title": "Специально для вас",
+    "view_all": "Смотреть все",
+    "x6months": "сум x 6 мес.",
+    "buy_now": "Купить сразу",
+    "add_to_cart": "Добавить в корзину",
+    "products": {
+      "56": {
+        "name": "Детский гироскутер NB-C9 (N11)"
+      },
+      "57": {
+        "name": "Детский гироскутер Didit N11"
+      },
+      "58": {
+        "name": "Детский электромобиль Didit HZBB-7585"
+      },
+      "59": {
+        "name": "Детский электромобиль Didit DM-6688-2"
+      },
+      "60": {
+        "name": "Детский электромобиль Didit HM-1289"
+      },
+      "61": {
+        "name": "Детский электромобиль Didit WMT-6188"
+      },
+      "62": {
+        "name": "Детский электромобиль Didit DM-1201"
+      },
+      "63": {
+        "name": "Детский электромобиль DM-988-Ч"
+      },
+      "64": {
+        "name": "Детский электромобиль Didit WMT-989"
+      },
+      "65": {
+        "name": "Детский электромобиль Didit DM-506"
+      },
+      "66": {
+        "name": "Детский электромобиль Didit DM-902 (912)"
+      },
+      "67": {
+        "name": "Детский мотоцикл Didit DM-209"
+      }
+    }
+  },
+  "categories": {
+    "title": "Категории",
+    "items": {
+      "smartphones": "Смартфоны",
+      "air_conditioners": "Кондиционеры",
+      "tvs": "Телевизоры",
+      "fridges": "Холодильники",
+      "laptops": "Ноутбуки",
+      "small_appliances": "Мелкая техника для дома"
+    },
+    "people_search_title": "Люди часто ищут",
+    "frequently": {
+      "0": "Кондиционеры 24",
+      "1": "Кондиционеры Premier",
+      "2": "Электрочайники Philips",
+      "3": "Электрочайники Xiaomi",
+      "4": "Кондиционеры LG",
+      "5": "Кондиционеры Shivaki",
+      "6": "Кондиционеры Artel",
+      "7": "Кондиционеры Arctic",
+      "8": "Кондиционеры 9",
+      "9": "Кондиционеры 12",
+      "10": "Кондиционеры Hisense",
+      "11": "Электрочайники Vitek",
+      "12": "Электрочайники Polaris",
+      "13": "Машина Xiaomi",
+      "14": "Телевизоры LG",
+      "15": "Кондиционеры Н723В Artel"
+    }
+  },
+  "threeBanner": {
+    "title": "Акции и видеообзоры",
+    "view_all": "Смотреть все",
+    "tabs": {
+      "promo": "Акции",
+      "connect": "idea Connect"
+    },
+    "promos": [
+      {
+        "title": "Путёвка на двоих в Египет",
+        "date": "21.07.2025-31.08.2025"
+      },
+      {
+        "title": "idea дарит подарки",
+        "date": ""
+      },
+      {
+        "title": "В рассрочку по цене базара",
+        "date": "01.08.2025 - 31.08.2025"
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Микроволновые печи. Обычная и инверторная",
+        "desc": "Команда idea поможет вам разобраться в различиях!"
+      },
+      {
+        "title": "Выбираем тот самый идеальный телевизор!",
+        "desc": "Не знаете какой телевизор выбрать? Есть idea!"
+      },
+      {
+        "title": "Готовимся к школе! Большой обзор.",
+        "desc": "Наш главный герой призадумался о покупке нужного гаджета для учебы!"
+      },
+      {
+        "title": "Жарим, Варим, Парим на идеальной газовой плите!",
+        "desc": "Только истинная хозяйка знает, какая должна быть идеальная кухонная плита!"
+      },
+      {
+        "title": "Стиральная машина. На что стоит обратить внимание?",
+        "desc": "Стиральная машина незаменимый помощник в доме!"
+      },
+      {
+        "title": "Залог чистого дома — идеальный пылесос",
+        "desc": "Не знаете какой пылесос выбрать? Есть idea!"
+      }
+    ]
+  },
+  "chat": {
+    "need_help": "Нужна помощь?",
+    "open": "Открыть чат",
+    "close": "Закрыть",
+    "telegram": "Телеграм",
+    "write": "Написать в чат",
+    "operator_name": "Madina",
+    "consultant": "Консультант",
+    "operator_greet_multi": "Assalomu alaykum! Qanday yordam bera olaman?\nЗдравствуйте, чем могу помочь?",
+    "quick1": "Assalomu aleykum!",
+    "quick2": "Savolim bor edi!",
+    "quick3": "Menga yordam bera olasizmi?",
+    "placeholder_input": "Введите сообщение",
+    "send": "Отправить"
+  },
+  "catalog": {
+    "button": "Каталог товаров",
+    "categories": {
+      "smartphones": "Смартфоны и телефоны",
+      "tv_audio_video": "ТВ, аудио и видео",
+      "appliances": "Бытовая техника",
+      "beauty_health": "Красота и здоровье",
+      "laptops_pc": "Ноутбуки и компьютеры",
+      "gadgets_access": "Гаджеты и аксессуары",
+      "auto": "Автозона",
+      "tools": "Инструменты для ремонта",
+      "kids": "Товары для детей",
+      "cctv": "Камеры видеонаблюдения",
+      "furniture": "Мебель для офиса и дома",
+      "kitchen": "Товары для кухни"
+    },
+    "sub": {
+      "smartphones": {
+        "phones": "Смартфоны",
+        "keypad": "Кнопочные телефоны",
+        "items": {
+          "iphone": "Смартфоны iPhone",
+          "samsung": "Смартфоны Samsung",
+          "huawei": "Смартфоны Huawei",
+          "xiaomi": "Смартфоны Xiaomi",
+          "honor": "Смартфоны HONOR",
+          "realme": "Смартфоны Realme",
+          "oppo": "Смартфоны Oppo",
+          "tecno": "Смартфоны Tecno"
+        },
+        "keypad_items": {
+          "novey": "Кнопочные телефоны NOVEY",
+          "ajib": "Кнопочные телефоны Ajib"
+        }
+      },
+      "tv": {
+        "tvs": "Телевизоры",
+        "tuners": "Тюнеры и TV‑приставки",
+        "audio": "Аудиосистемы",
+        "led": "LED‑телевизоры",
+        "oled": "OLED‑телевизоры",
+        "qled": "QLED‑телевизоры",
+        "dvb_t2": "Тюнеры DVB‑T2",
+        "smart_boxes": "TV‑приставки (Smart Box)",
+        "soundbars": "Саундбары",
+        "speakers": "Колонки",
+        "mounts": "Кронштейны"
+      },
+      "appliances": {
+        "climate": {
+          "title": "Климатическая техника",
+          "gas_boilers": "Газовые котлы",
+          "ac": "Кондиционеры",
+          "fans": "Вентиляторы",
+          "purifiers": "Очистители воздуха",
+          "humidifiers": "Увлажнители воздуха",
+          "more": "Показать еще"
+        },
+        "builtin": {
+          "title": "Встраиваемая техника",
+          "hoods": "Вытяжки",
+          "hobs": "Варочные панели",
+          "ovens": "Духовые шкафы"
+        },
+        "large": {
+          "title": "Крупная бытовая техника",
+          "stoves": "Кухонные плиты",
+          "washers": "Стиральные машины",
+          "fridges": "Холодильники",
+          "freezers": "Морозильники"
+        },
+        "small_home": {
+          "title": "Мелкая техника для дома",
+          "vacuums": "Пылесосы",
+          "irons": "Утюги",
+          "sewing": "Швейные машины",
+          "scales": "Весы",
+          "steamers": "Отпариватели"
+        },
+        "small_kitchen": {
+          "title": "Мелкая техника для кухни",
+          "microwaves": "Микроволновые печи",
+          "mini_ovens": "Мини‑печи",
+          "blenders": "Блендеры",
+          "coffee": "Кофеварки",
+          "processors": "Кухонные комбайны"
+        }
+      },
+      "beauty_health": {
+        "title": "Красота и здоровье",
+        "items": {
+          "curlers": "Плойки",
+          "straighteners": "Выпрямители",
+          "trimmers": "Триммеры",
+          "dryers": "Фены",
+          "brush_dryers": "Фен‑щетки",
+          "epilators": "Эпиляторы",
+          "shavers": "Электробритвы",
+          "electric_toothbrushes": "Электрические зубные щётки"
+        }
+      },
+      "laptops_pc": {
+        "title": "Ноутбуки и компьютеры",
+        "items": {
+          "laptops": "Ноутбуки",
+          "routers": "Роутеры",
+          "bags": "Рюкзаки и сумки",
+          "computers": "Компьютеры",
+          "monoblocks": "Моноблоки",
+          "components": "Комплектующие",
+          "keyboards": "Клавиатуры",
+          "keyboards_mice": "Клавиатуры и мышки",
+          "mice": "Мышки",
+          "monitors": "Мониторы",
+          "printers": "Принтеры",
+          "mfp": "МФУ",
+          "storage": "Накопители информации и прочее",
+          "extenders": "Удлинители",
+          "flash": "Флеш‑накопители",
+          "hdd": "Жёсткие диски"
+        }
+      },
+      "gadgets_access": {
+        "title": "Гаджеты и аксессуары",
+        "items": {
+          "tablets": "Планшеты",
+          "smart_watches": "Смарт‑часы",
+          "fitness_bands": "Фитнес‑браслеты",
+          "headphones": "Наушники",
+          "external_storage": "Внешние накопители",
+          "batteries": "Аккумуляторы",
+          "chargers": "Зарядные устройства"
+        }
+      },
+      "auto": {
+        "electronics": "Автоэлектроника",
+        "accessories": "Аксессуары",
+        "media": "Магнитолы",
+        "cameras": "Видеорегистраторы",
+        "nav": "Навигаторы",
+        "holders": "Держатели",
+        "chargers": "Автозарядки",
+        "compressors": "Компрессоры"
+      },
+      "tools": {
+        "power": "Электроинструменты",
+        "hand": "Ручные инструменты",
+        "measure": "Измерительные приборы",
+        "drills": "Дрели",
+        "grinders": "Болгарки",
+        "screwdrivers": "Шуруповёрты",
+        "wrenches": "Ключи",
+        "hammers": "Молоты",
+        "sockets": "Головки",
+        "tape": "Рулетки",
+        "multimeter": "Мультиметры"
+      },
+      "kids": {
+        "toys": "Игрушки",
+        "care": "Уход и безопасность",
+        "educational": "Развивающие",
+        "outdoor": "Для улицы",
+        "plush": "Мягкие игрушки",
+        "strollers": "Коляски",
+        "seats": "Детские кресла"
+      },
+      "cctv": {
+        "cameras": "Камеры",
+        "recording": "Запись и хранение",
+        "accessories": "Комплектующие",
+        "ip": "IP‑камеры",
+        "analog": "Аналоговые камеры",
+        "ptz": "PTZ‑камеры",
+        "dvrs": "DVR‑регистраторы",
+        "nvrs": "NVR‑регистраторы",
+        "storage": "Накопители",
+        "cables": "Кабели",
+        "power": "Блоки питания"
+      },
+      "furniture": {
+        "office": "Офисная мебель",
+        "home": "Мебель для дома",
+        "desks": "Столы",
+        "chairs": "Кресла и стулья",
+        "storage": "Шкафы и тумбы",
+        "sofas": "Диваны",
+        "tables": "Журнальные/обеденные столы",
+        "shelving": "Стеллажи"
+      },
+      "kitchen": {
+        "cookware": "Кухонная посуда",
+        "tableware": "Столовые приборы",
+        "storage": "Хранение",
+        "pans": "Сковороды",
+        "pots": "Кастрюли",
+        "knives": "Ножи",
+        "plates": "Тарелки",
+        "cups": "Кружки и чашки",
+        "cutlery": "Столовые приборы",
+        "containers": "Контейнеры",
+        "jars": "Банки"
+      }
+    }
+  },
+  "search": {
+    "placeholder": "Поиск"
+  },
+  "footer": {
+    "leave_message": "Оставить сообщение",
+    "customers": "Покупателям",
+    "faq": "Вопросы и ответы",
+    "how_to_order": "Как сделать заказ на сайте",
+    "returns": "Возврат и обмен",
+    "idea": "idea.uz",
+    "about": "О нас",
+    "stores": "Наши магазины",
+    "contacts": "Контакты",
+    "info": "Информация",
+    "articles": "Статьи",
+    "installments": "Рассрочка",
+    "offer": "Оферта",
+    "vacancies": "Вакансии",
+    "hours": "Ежедневно с 9:00 до 21:00",
+    "email": "Почта",
+    "copyright": "2025 © «idea.uz - интернет-магазин»",
+    "development": "Разработка -"
+  },
+  "common1": {
+    "sum": "сум",
+    "brand": "Бренд",
+    "home_breadcrumb": "Главная"
+  },
+  "favorites": {
+    "breadcrumb": "Избранное",
+    "clear_confirm": "Вы уверены, что хотите очистить избранное?",
+    "empty_title": "Ваш список желаний пуст",
+    "empty_subtitle": "Добавляйте товары, нажимая на сердечко",
+    "go_to_home": "Перейти на главную",
+    "aside_title": "Ваш список желаний",
+    "product_count": "Количество продуктов",
+    "move_to_cart": "Перейти в корзину",
+    "clear_all": "Очистить все"
+  },
+  "cart": {
+    "breadcrumb": "Корзина",
+    "empty_title": "Ваша корзина пуста",
+    "empty_subtitle": "Добавьте товары, чтобы сделать заказ",
+    "start_shopping": "Начать покупки",
+    "product_code": "Код товара:",
+    "aside_title": "Ваша корзина",
+    "item_unit": "шт",
+    "your_payment": "Ваш платеж:",
+    "checkout": "Оформить"
+  },
+  "compare": {
+    "breadcrumb": "Сравнение",
+    "title": "Сравнение товаров",
+    "clear_list": "Очистить список",
+    "add_to_compare": "Добавить к сравнению",
+    "empty_title": "Нет товаров для сравнения",
+    "empty_subtitle": "Нажмите на иконку весов на карточке товара, чтобы добавить его сюда.",
+    "go_to_shopping": "Перейти к покупкам"
+  }
+}

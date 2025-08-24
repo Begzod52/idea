@@ -1,0 +1,645 @@
+{
+  "header": {
+    "promos": "Aksiya va chegirmalar",
+    "stores": "Do'konlar",
+    "catalog": "Katalog tovarlar",
+    "search": "Qidirish",
+    "favorites": "Sevimlilar",
+    "cart": "Savat",
+    "compare": "Taqqoslash",
+    "login": "Kirish",
+    "profile": "Profil",
+    "logout": "Chiqish",
+    "choose_language": "Tilni tanlang"
+  },
+  "common": {
+    "sum": "so'm",
+    "brand": "Brend"
+  },
+  "slider1": {
+    "title": "Mashhur mahsulotlar",
+    "view_all": "Barchasini ko'rish",
+    "badge_hit": "XIT",
+    "x6months": "so'm x 6 oy",
+    "buy_now": "Darhol sotib olish",
+    "add_to_cart": "Savatga qo‘shish",
+    "products": {
+      "1": {
+        "name": "Muzlatkich Indesit ITS 4200 NG UZ"
+      },
+      "2": {
+        "name": "Smartfon Samsung Galaxy A16 256GB Qora"
+      },
+      "3": {
+        "name": "Smartfon Samsung Galaxy A16 256GB Kulrang"
+      },
+      "4": {
+        "name": "Smartfon Honor X9c 8/256 Titan qora"
+      },
+      "5": {
+        "name": "Smartfon Honor X8c 6/128 Tungi qora"
+      },
+      "6": {
+        "name": "Muzlatkich Loretto LRF-220I/DF-W"
+      },
+      "7": {
+        "name": "Smartfon iPhone 13 128GB Tungi"
+      },
+      "8": {
+        "name": "Muzlatkich KLEO BCD 275 W"
+      },
+      "9": {
+        "name": "Konditsioner ARCTIC ARCSIJ3AW09BE"
+      },
+      "10": {
+        "name": "Muzlatkich Loretto LRF-330I/NF-BL"
+      },
+      "11": {
+        "name": "Televizor KÖNNEN 32KN100HS"
+      },
+      "12": {
+        "name": "Muzlatkich Ferre BCD275"
+      },
+      "13": {
+        "name": "Smartfon Honor X7b Qora 8/128GB"
+      },
+      "14": {
+        "name": "Smartfon Xiaomi Redmi Note 14 6/128 Tungi qora"
+      },
+      "15": {
+        "name": "Smartfon Honor X8b 8/128 Tungi qora"
+      },
+      "16": {
+        "name": "Smartfon Honor X8b 8/128 Kumush titan"
+      },
+      "17": {
+        "name": "Smartfon Samsung Galaxy A56 8/128GB Kulrang"
+      },
+      "18": {
+        "name": "Smartfon Honor X6b 4/128 O'rmon-yashil"
+      },
+      "19": {
+        "name": "Smartfon Huawei Nova 12i 8/128GB Qora"
+      }
+    }
+  },
+  "slider": {
+    "title": "Mashhur mahsulotlar",
+    "view_all": "Barchasini ko'rish",
+    "badge_hit": "XIT",
+    "x6months": "so'm x 6 oy",
+    "buy_now": "Darhol sotib olish",
+    "add_to_cart": "Savatga qo‘shish",
+    "products": {
+      "1": {
+        "name": "Muzlatkich Indesit ITS 4200 NG UZ"
+      },
+      "2": {
+        "name": "Smartfon Samsung Galaxy A16 256GB Qora"
+      },
+      "3": {
+        "name": "Smartfon Samsung Galaxy A16 256GB Kulrang"
+      },
+      "4": {
+        "name": "Smartfon Honor X9c 8/256 Titan qora"
+      },
+      "5": {
+        "name": "Smartfon Honor X8c 6/128 Tungi qora"
+      },
+      "6": {
+        "name": "Muzlatkich Loretto LRF-220I/DF-W"
+      },
+      "7": {
+        "name": "Smartfon iPhone 13 128GB Tungi"
+      },
+      "8": {
+        "name": "Muzlatkich KLEO BCD 275 W"
+      },
+      "9": {
+        "name": "Konditsioner ARCTIC ARCSIJ3AW09BE"
+      },
+      "10": {
+        "name": "Muzlatkich Loretto LRF-330I/NF-BL"
+      },
+      "11": {
+        "name": "Televizor KÖNNEN 32KN100HS"
+      },
+      "12": {
+        "name": "Muzlatkich Ferre BCD275"
+      },
+      "13": {
+        "name": "Smartfon Honor X7b Qora 8/128GB"
+      },
+      "14": {
+        "name": "Smartfon Xiaomi Redmi Note 14 6/128 Tungi qora"
+      },
+      "15": {
+        "name": "Smartfon Honor X8b 8/128 Tungi qora"
+      },
+      "16": {
+        "name": "Smartfon Honor X8b 8/128 Kumush titan"
+      },
+      "17": {
+        "name": "Smartfon Samsung Galaxy A56 8/128GB Kulrang"
+      },
+      "18": {
+        "name": "Smartfon Honor X6b 4/128 O'rmon-yashil"
+      },
+      "19": {
+        "name": "Smartfon Huawei Nova 12i 8/128GB Qora"
+      }
+    }
+  },
+  "slider2": {
+    "title": "Yirik maishiy texnika",
+    "view_all": "Barchasini ko'rish",
+    "x6months": "so'm x 6 oy",
+    "buy_now": "Darhol sotib olish",
+    "add_to_cart": "Savatga qo‘shish",
+    "products": {
+      "32": {
+        "name": "Muzlatkich Indesit ITS 5200 W UZ"
+      },
+      "33": {
+        "name": "Kombinatsiyalangan plita GOODWELL GWC64014W"
+      },
+      "34": {
+        "name": "Kombinatsiyalangan plita GOODWELL GWC-64014BL4"
+      },
+      "35": {
+        "name": "Gaz plitasi Goodwell GWC-64014X4"
+      },
+      "36": {
+        "name": "Muzlatkich KLEO UCR 365 W"
+      },
+      "37": {
+        "name": "Muzlatkich LG GN-B452SKBK"
+      },
+      "38": {
+        "name": "Kir yuvish mashinasi Artel TG80FMP Abstract 01"
+      },
+      "39": {
+        "name": "Muzlatkich Toshiba GR-RT624WE-PMJ(06)"
+      },
+      "40": {
+        "name": "Muzlatkich Toshiba GR-RB449WE-PMJ(49)"
+      },
+      "41": {
+        "name": "Kir yuvish mashinasi LG F2Y1NS5W"
+      },
+      "42": {
+        "name": "Kir yuvish mashinasi LG F2Y1NS6W"
+      },
+      "43": {
+        "name": "Kir yuvish mashinasi LG F2Y1WS6W"
+      }
+    }
+  },
+  "slider3": {
+    "title": "Uy uchun kichik texnika",
+    "view_all": "Barchasini ko'rish",
+    "x6months": "so'm x 6 oy",
+    "buy_now": "Darhol sotib olish",
+    "add_to_cart": "Savatga qo‘shish",
+    "products": {
+      "44": {
+        "name": "Bug'li kiyim parlagichi IT3470E1"
+      },
+      "45": {
+        "name": "Dazmol Gorenje SIH2600BKG"
+      },
+      "46": {
+        "name": "Dazmol Gorenje SIH2200BLC"
+      },
+      "47": {
+        "name": "Qo'l akkumulyatorli changyutgich Karcher CVH 3 Plus..."
+      },
+      "48": {
+        "name": "Tikuv mashinasi CHAYKA ART 75"
+      },
+      "49": {
+        "name": "Bug' tozalagich Karcher SC 2 Deluxe"
+      },
+      "50": {
+        "name": "Dazmol Tefal FV2847E0"
+      },
+      "51": {
+        "name": "Dazmol Tefal FV6838E0"
+      },
+      "52": {
+        "name": "Dazmol Tefal FV6844E0"
+      },
+      "53": {
+        "name": "Changyutgich KLEO VC-1108 C (Qora)"
+      },
+      "54": {
+        "name": "Changyutgich KLEO VC-1108 C (Kulrang)"
+      },
+      "55": {
+        "name": "Aqlli tarozi Artel ART-EB-1170"
+      }
+    }
+  },
+  "slider4": {
+    "title": "Siz uchun maxsus",
+    "view_all": "Barchasini ko'rish",
+    "x6months": "so'm x 6 oy",
+    "buy_now": "Darhol sotib olish",
+    "add_to_cart": "Savatga qo‘shish",
+    "products": {
+      "56": {
+        "name": "Bolalar giroskuteri NB-C9 (N11)"
+      },
+      "57": {
+        "name": "Bolalar giroskuteri Didit N11"
+      },
+      "58": {
+        "name": "Bolalar elektromobili Didit HZBB-7585"
+      },
+      "59": {
+        "name": "Bolalar elektromobili Didit DM-6688-2"
+      },
+      "60": {
+        "name": "Bolalar elektromobili Didit HM-1289"
+      },
+      "61": {
+        "name": "Bolalar elektromobili Didit WMT-6188"
+      },
+      "62": {
+        "name": "Bolalar elektromobili Didit DM-1201"
+      },
+      "63": {
+        "name": "Bolalar elektromobili DM-988-Ч"
+      },
+      "64": {
+        "name": "Bolalar elektromobili Didit WMT-989"
+      },
+      "65": {
+        "name": "Bolalar elektromobili Didit DM-506"
+      },
+      "66": {
+        "name": "Bolalar elektromobili Didit DM-902 (912)"
+      },
+      "67": {
+        "name": "Bolalar mototsikli Didit DM-209"
+      }
+    }
+  },
+  "categories": {
+    "title": "Kategoriyalar",
+    "items": {
+      "smartphones": "Smartfonlar",
+      "air_conditioners": "Konditsionerlar",
+      "tvs": "Televizorlar",
+      "fridges": "Muzlatkichlar",
+      "laptops": "Noutbuklar",
+      "small_appliances": "Uy uchun kichik texnika"
+    },
+    "people_search_title": "Odamlar tez-tez izlaydi",
+    "frequently": {
+      "0": "Konditsionerlar 24",
+      "1": "Konditsionerlar Premier",
+      "2": "Elektr choynaklar Philips",
+      "3": "Elektr choynaklar Xiaomi",
+      "4": "Konditsionerlar LG",
+      "5": "Konditsionerlar Shivaki",
+      "6": "Konditsionerlar Artel",
+      "7": "Konditsionerlar Arctic",
+      "8": "Konditsionerlar 9",
+      "9": "Konditsionerlar 12",
+      "10": "Konditsionerlar Hisense",
+      "11": "Elektr choynaklar Vitek",
+      "12": "Elektr choynaklar Polaris",
+      "13": "Moshina Xiaomi",
+      "14": "Televizor LG",
+      "15": "Konditsionerlar N723V Artel"
+    }
+  },
+  "threeBanner": {
+    "title": "Aksiyalar va video sharhlar",
+    "view_all": "Barchasini ko'rish",
+    "tabs": {
+      "promo": "Aksiyalar",
+      "connect": "idea Connect"
+    },
+    "promos": [
+      {
+        "title": "Misrga ikki kishilik yo‘llanma",
+        "date": "21.07.2025-31.08.2025"
+      },
+      {
+        "title": "idea sovg‘alar ulashadi",
+        "date": ""
+      },
+      {
+        "title": "Bo‘lib to‘lash — bozor narxida",
+        "date": "01.08.2025 - 31.08.2025"
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Mikroto'lqin pechlar. Oddiy va Invertor",
+        "desc": "idea jamoasi ushbu farqlarni tushunishda Sizga yordam berishga tayyor!"
+      },
+      {
+        "title": "O‘sha mukammal televizorni tanlaymiz!",
+        "desc": "Qaysi televizorni tanlashni bilmaysizmi? Idea bor!"
+      },
+      {
+        "title": "Maktabga tayyorgarlik! Katta sharh.",
+        "desc": "Qahramonimiz o‘qish uchun kerakli gadjet haqida o‘yladi!"
+      },
+      {
+        "title": "Mukammal gaz plitasida qovuramiz, qaynatamiz, bug‘laymiz!",
+        "desc": "Faqat haqiqiy uy bekasi mukammal oshxona plitasi qanday bo‘lishini biladi!"
+      },
+      {
+        "title": "Kir yuvish mashinasi. Nimalarga e’tibor berish kerak?",
+        "desc": "Kir yuvish mashinasi — uydagi eng kerakli yordamchi!"
+      },
+      {
+        "title": "Toza uy garovi — mukammal changyutgich",
+        "desc": "Qaysi changyutgichni tanlashni bilmaysizmi? Idea bor!"
+      }
+    ]
+  },
+  "chat": {
+    "need_help": "Yordam kerakmi?",
+    "open": "Chatni ochish",
+    "close": "Yopish",
+    "telegram": "Telegram",
+    "write": "Chatga yozish",
+    "operator_name": "Madina",
+    "consultant": "Konsultant",
+    "operator_greet_multi": "Assalomu alaykum! Qanday yordam bera olaman?\nSalom, qanday yordam bera olaman?",
+    "quick1": "Assalomu aleykum!",
+    "quick2": "Savolim bor edi!",
+    "quick3": "Menga yordam bera olasizmi?",
+    "placeholder_input": "Xabar yozing",
+    "send": "Yuborish"
+  },
+
+  "catalog": {
+    "button": "Tovarlar katalogi",
+    "categories": {
+      "smartphones": "Smartfonlar va telefonlar",
+      "tv_audio_video": "TV, audio va video",
+      "appliances": "Maishiy texnika",
+      "beauty_health": "Go‘zallik va salomatlik",
+      "laptops_pc": "Noutbuklar va kompyuterlar",
+      "gadgets_access": "Gadgetlar va aksessuarlar",
+      "auto": "Avto zona",
+      "tools": "Ta’mirlash asboblari",
+      "kids": "Bolalar uchun tovarlar",
+      "cctv": "Videokuzatuv kameralar",
+      "furniture": "Ofis va uy mebellari",
+      "kitchen": "Oshxona uchun tovarlar"
+    },
+    "sub": {
+      "smartphones": {
+        "phones": "Smartfonlar",
+        "keypad": "Tugmali telefonlar",
+        "items": {
+          "iphone": "iPhone smartfonlari",
+          "samsung": "Samsung smartfonlari",
+          "huawei": "Huawei smartfonlari",
+          "xiaomi": "Xiaomi smartfonlari",
+          "honor": "HONOR smartfonlari",
+          "realme": "Realme smartfonlari",
+          "oppo": "Oppo smartfonlari",
+          "tecno": "Tecno smartfonlari"
+        },
+        "keypad_items": {
+          "novey": "NOVEY tugmali telefonlari",
+          "ajib": "Ajib tugmali telefonlari"
+        }
+      },
+      "tv": {
+        "tvs": "Televizorlar",
+        "tuners": "Tyuner va TV‑pristavkalar",
+        "audio": "Audiosistemalar",
+        "led": "LED‑televizorlar",
+        "oled": "OLED‑televizorlar",
+        "qled": "QLED‑televizorlar",
+        "dvb_t2": "DVB‑T2 tyunerlar",
+        "smart_boxes": "TV‑pristavkalar (Smart Box)",
+        "soundbars": "Soundbarlar",
+        "speakers": "Kalonkalar",
+        "mounts": "Kronshteynlar"
+      },
+      "appliances": {
+        "climate": {
+          "title": "Iqlim texnikasi",
+          "gas_boilers": "Gaz qozonlari",
+          "ac": "Konditsionerlar",
+          "fans": "Ventilatorlar",
+          "purifiers": "Havo tozalagichlar",
+          "humidifiers": "Namlagichlar",
+          "more": "Yana ko‘rsatish"
+        },
+        "builtin": {
+          "title": "O‘rnatiladigan texnika",
+          "hoods": "Dudbug‘ilar (vityajka)",
+          "hobs": "Pishirish panellari",
+          "ovens": "Duxovkalar"
+        },
+        "large": {
+          "title": "Yirik maishiy texnika",
+          "stoves": "Pishirish plitalari",
+          "washers": "Kir yuvish mashinalari",
+          "fridges": "Muzlatkichlar",
+          "freezers": "Muzlatgichlar"
+        },
+        "small_home": {
+          "title": "Uy uchun kichik texnika",
+          "vacuums": "Changyutgichlar",
+          "irons": "Dazmollar",
+          "sewing": "Tikuv mashinalari",
+          "scales": "Tarozilar",
+          "steamers": "Bug‘ beruvchilar"
+        },
+        "small_kitchen": {
+          "title": "Oshxona uchun kichik texnika",
+          "microwaves": "Mikroto‘lqinli pechlar",
+          "mini_ovens": "Mini pechlar",
+          "blenders": "Blenderlar",
+          "coffee": "Qahva qaynatgichlar",
+          "processors": "Oshxona kombaynlari"
+        }
+      },
+      "beauty_health": {
+        "title": "Go‘zallik va salomatlik",
+        "items": {
+          "curlers": "Soch buklovchilar",
+          "straighteners": "Soch tekislagichlar",
+          "trimmers": "Trimmerlar",
+          "dryers": "Fenlar",
+          "brush_dryers": "Fen‑cho‘tkalar",
+          "epilators": "Epilatorlar",
+          "shavers": "Elektr soqol olgichlar",
+          "electric_toothbrushes": "Elektr tish cho‘tkalari"
+        }
+      },
+      "laptops_pc": {
+        "title": "Noutbuklar va kompyuterlar",
+        "items": {
+          "laptops": "Noutbuklar",
+          "routers": "Routerlar",
+          "bags": "Ryukzak va sumkalar",
+          "computers": "Kompyuterlar",
+          "monoblocks": "Monobloklar",
+          "components": "Komponentlar",
+          "keyboards": "Klaviaturalar",
+          "keyboards_mice": "Klaviatura va sichqonchalar",
+          "mice": "Sichqonchalar",
+          "monitors": "Monitorlar",
+          "printers": "Printerlar",
+          "mfp": "KMB (printer+skaner+kop.)",
+          "storage": "Ma’lumot tashuvchilar va boshqalar",
+          "extenders": "Uzoqroqlagichlar",
+          "flash": "Flesh xotiralar",
+          "hdd": "Qattiq disklar"
+        }
+      },
+      "gadgets_access": {
+        "title": "Gadgetlar va aksessuarlar",
+        "items": {
+          "tablets": "Planshetlar",
+          "smart_watches": "Aqlli soatlar",
+          "fitness_bands": "Fitness brasletlar",
+          "headphones": "Quloqchinlar",
+          "external_storage": "Tashqi xotira",
+          "batteries": "Akkumulyatorlar",
+          "chargers": "Zaryad qurilmalari"
+        }
+      },
+      "auto": {
+        "electronics": "Avtoelektronika",
+        "accessories": "Aksessuarlar",
+        "media": "Magnetolalar",
+        "cameras": "Videoregistratorlar",
+        "nav": "Navigatorlar",
+        "holders": "Ushlagichlar",
+        "chargers": "Avto zaryadlagichlar",
+        "compressors": "Kompressorlar"
+      },
+      "tools": {
+        "power": "Elektr asboblar",
+        "hand": "Qo‘l asboblari",
+        "measure": "O‘lchov qurilmalari",
+        "drills": "Parmalagichlar",
+        "grinders": "Charxlagichlar",
+        "screwdrivers": "Otvyortkalar",
+        "wrenches": "Kalitlar",
+        "hammers": "Bolg‘alar",
+        "sockets": "Golovkalar",
+        "tape": "Ruletkalar",
+        "multimeter": "Multimetrlar"
+      },
+      "kids": {
+        "toys": "O‘yinchoqlar",
+        "care": "Parvarish va xavfsizlik",
+        "educational": "Rivojlantiruvchi",
+        "outdoor": "Ko‘cha uchun",
+        "plush": "Yumshoq o‘yinchoqlar",
+        "strollers": "Aravachalar",
+        "seats": "Bolalar o‘rindiqlari"
+      },
+      "cctv": {
+        "cameras": "Kameralar",
+        "recording": "Yozish va saqlash",
+        "accessories": "Komplektlar va qismlar",
+        "ip": "IP kameralar",
+        "analog": "Analog kameralar",
+        "ptz": "PTZ kameralar",
+        "dvrs": "DVR registratorlar",
+        "nvrs": "NVR registratorlar",
+        "storage": "Xotira qurilmalari",
+        "cables": "Kabel va simlar",
+        "power": "Quvvat bloki"
+      },
+      "furniture": {
+        "office": "Ofis mebellari",
+        "home": "Uy mebellari",
+        "desks": "Stollar",
+        "chairs": "Kreslo va stullar",
+        "storage": "Shkaf va tumbalar",
+        "sofas": "Divanlar",
+        "tables": "Stollar (ovqat/jurnal)",
+        "shelving": "Stellajlar"
+      },
+      "kitchen": {
+        "cookware": "Oshxona idishlari",
+        "tableware": "Stol anjomlari",
+        "storage": "Saqlash",
+        "pans": "Tovalar",
+        "pots": "Qozonlar",
+        "knives": "Pichoqlar",
+        "plates": "Tarelka",
+        "cups": "Chashka va krujkalar",
+        "cutlery": "Qoshiq‑sanchqi‑pichoq",
+        "containers": "Konteynerlar",
+        "jars": "Bankalar"
+      }
+    }
+  },
+  "search": {
+    "placeholder": "Qidiruv"
+  },
+  "footer": {
+    "leave_message": "Xabar qoldirish",
+    "customers": "Xaridorlarga",
+    "faq": "Savol-javoblar",
+    "how_to_order": "Saytda qanday buyurtma qilish",
+    "returns": "Qaytarish va almashtirish",
+    "idea": "idea.uz",
+    "about": "Biz haqimizda",
+    "stores": "Do'konlarimiz",
+    "contacts": "Aloqa",
+    "info": "Ma'lumot",
+    "articles": "Maqolalar",
+    "installments": "Bo'lib to'lash",
+    "offer": "Ommaviy oferta",
+    "vacancies": "Bo'sh ish o'rinlari",
+    "hours": "Har kuni 9:00 dan 21:00 gacha",
+    "email": "Pochta",
+    "copyright": "2025 © «idea.uz - onlayn-do'kon»",
+    "development": "Ishlab chiqish -"
+  },
+  "common1": {
+    "sum": "so'm",
+    "brand": "Brend",
+    "home_breadcrumb": "Bosh sahifa"
+  },
+  "favorites": {
+    "breadcrumb": "Sevimlilar",
+    "clear_confirm": "Sevimlilarni tozalashga ishonchingiz komilmi?",
+    "empty_title": "Sizning istaklar roʻyxatingiz boʻsh",
+    "empty_subtitle": "Yurakcha belgisini bosib mahsulotlarni qoʻshing",
+    "go_to_home": "Bosh sahifaga oʻtish",
+    "aside_title": "Sizning istaklar roʻyxatingiz",
+    "product_count": "Mahsulotlar soni",
+    "move_to_cart": "Savatga o'tish",
+    "clear_all": "Hammasini tozalash"
+  },
+  "cart": {
+    "breadcrumb": "Savat",
+    "empty_title": "Sizning savatingiz boʻsh",
+    "empty_subtitle": "Buyurtma berish uchun mahsulotlarni qoʻshing",
+    "start_shopping": "Xaridlarni boshlash",
+    "product_code": "Mahsulot kodi:",
+    "aside_title": "Sizning savatingiz",
+    "item_unit": "dona",
+    "your_payment": "Sizning toʻlovingiz:",
+    "checkout": "Rasmiylashtirish"
+  },
+  "compare": {
+    "breadcrumb": "Taqqoslash",
+    "title": "Mahsulotlarni taqqoslash",
+    "clear_list": "Roʻyxatni tozalash",
+    "add_to_compare": "Taqqoslashga qo'shish",
+    "empty_title": "Taqqoslash uchun mahsulotlar yoʻq",
+    "empty_subtitle": "Bu yerga qoʻshish uchun mahsulot kartasidagi tarozi belgisini bosing.",
+    "go_to_shopping": "Xarid qilishga oʻtish"
+  }
+}

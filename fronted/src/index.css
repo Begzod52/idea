@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+.hero-swiper-pagination .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    background-color: rgba(255, 255, 255, 0.6);
+    opacity: 1;
+    transition: all 0.3s ease;
+    border-radius: 9999px;
+    margin: 0 5px;
+}
+.hero-swiper-pagination .swiper-pagination-bullet-active {
+    width: 28px;
+    background-color: white;
+}
+
+/* Dark mode overrides (global, minimal invasive) */
+:root {
+  --bg-body: #0b1220;        /* slate-950 */
+  --bg-surface: #111827;     /* gray-900 */
+  --bg-muted: #1f2937;       /* gray-800 */
+  --text-primary: #e5e7eb;   /* gray-200 */
+  --text-muted: #cbd5e1;     /* slate-300 */
+  --border: #334155;         /* slate-700 */
+}
+
+.dark body {
+  background-color: var(--bg-body);
+  color: var(--text-primary);
+}
+
+/* Try to gently restyle common surfaces */
+.dark .bg-white, .dark .bg-gray-50 { background-color: var(--bg-surface) !important; }
+.dark .bg-gray-100 { background-color: var(--bg-muted) !important; }
+.dark .text-gray-900, .dark .text-gray-800, .dark .text-gray-700 { color: var(--text-primary) !important; }
+.dark .text-gray-600, .dark .text-gray-500 { color: var(--text-muted) !important; }
+.dark .border-gray-100, .dark .border-gray-200, .dark .border-gray-300 { border-color: var(--border) !important; }
+.dark .ring-gray-200 { --tw-ring-color: var(--border) !important; }
+
+/* Inputs */
+.dark input, .dark select, .dark textarea {
+  background-color: var(--bg-muted) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border) !important;
+}
+.dark input::placeholder, .dark textarea::placeholder { color: #94a3b8 !important; }
+
+/* Cards (common utility class in project) */
+.dark .shadow, .dark .shadow-md, .dark .shadow-lg { box-shadow: 0 2px 8px rgba(0,0,0,.6) !important; }
+
+/* Swiper bullets used on hero */
+.dark .hero-swiper-pagination .swiper-pagination-bullet { background-color: rgba(255,255,255,0.35); }
+.dark .hero-swiper-pagination .swiper-pagination-bullet-active { background-color: rgba(255,255,255,0.8); }
