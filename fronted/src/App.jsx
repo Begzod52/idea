@@ -15,7 +15,8 @@ import ThreeBanner from "./components/ThreeBanner.jsx";
 import Categories from "./components/Categories.jsx";
 import Footer from "./components/Footer.jsx";
 import ChatBubbleRight from "./components/ChatBubbleRight.jsx";
-// Новые страницы
+import Sales from "./pages/Sales.jsx";
+import Shops from "./pages/Shops.jsx";
 import Favorites from "./pages/Favorites.jsx";
 import Shop from "./pages/Shop.jsx";
 import Compare from "./pages/Compare.jsx";
@@ -42,12 +43,11 @@ function App() {
             </div>
           }
         />
-        {/* Новые маршруты */}
+        <Route path="sales" element={<Sales />} />
+        <Route path="shops" element={<Shops />} />
         <Route path="/favorites" element={<Favorites />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/compare" element={<Compare />} />
-
-        {/* Старые маршруты */}
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route

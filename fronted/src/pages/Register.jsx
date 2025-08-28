@@ -30,7 +30,7 @@ export default function Register() {
   };
 
   return (
-    <div className="h-180 flex items-center justify-center">
+    <div className="h-180 flex items-center justify-center bg-gray-50">
       <div className="bg-white shadow-lg rounded-2xl p-8 w-full max-w-xl border border-gray-200">
         <h1 className="text-2xl font-extrabold mb-6 text-center">Создать аккаунт</h1>
         {error && <div className="mb-4 text-red-500 text-sm">{error}</div>}

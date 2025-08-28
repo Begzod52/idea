@@ -23,7 +23,7 @@ export default function Profile() {
   }, [token]);
 
   return (
-    <div className="min-h-[70vh] flex items-center justify-center">
+    <div className="flex items-center justify-center bg-gray-50">
       <div className="bg-white shadow-lg rounded-2xl p-8 w-full max-w-3xl border border-gray-200 dark:border-[var(--border)]">
         <h1 className="text-3xl font-extrabold mb-6">Страница профиля</h1>
         {error && <div className="mb-4 text-red-500 text-sm">{error}</div>}

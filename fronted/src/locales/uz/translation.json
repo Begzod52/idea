@@ -641,5 +641,18 @@
     "empty_title": "Taqqoslash uchun mahsulotlar yoʻq",
     "empty_subtitle": "Bu yerga qoʻshish uchun mahsulot kartasidagi tarozi belgisini bosing.",
     "go_to_shopping": "Xarid qilishga oʻtish"
+  },
+  "sales": {
+    "kocha": "Uyga",
+    "aks": "Aksiyalar",
+    "title": "Aksiya va chegirmalar",
+    "view_all": "Barchasini ko'rish"
+  },
+  "shops": {
+    "kocha": "Uyga",
+    "uyga": "Bizning manzillar",
+    "title": "Do'konlar",
+    "select_region": "Viloyatni tanlang",
+    "all_regions": "Barcha viloyatlar"
   }
 }
